@@ -2,6 +2,10 @@
 
 Este repositório contém o código-fonte de um aplicativo móvel desenvolvido com **Flutter** para auxiliar usuários no **gerenciamento de seus medicamentos** e **adesão ao tratamento farmacológico**. O app também conta com integração ao **Bulário Eletrônico da Anvisa**, permitindo consulta às bulas de medicamentos de forma rápida e confiável.
 
+## 👩🏻‍💻 Desenvolvido Por
+
+Beatriz de Oliveira Vieira
+
 ## 📱 Funcionalidades
 
 - Cadastro e agendamento de medicamentos.
