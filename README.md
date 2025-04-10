@@ -6,6 +6,18 @@ Este repositório contém o código-fonte de um aplicativo móvel desenvolvido c
 
 Beatriz de Oliveira Vieira
 
+## 📌 Objetivos
+
+* Criar um sistema para cadastro de medicamentos, incluindo dose, horários e duração do tratamento.
+
+* Implementar um sistema de notificações automáticas para lembrar os usuários de tomarem os remédios.
+
+* Desenvolver um módulo de OCR (reconhecimento de texto) para escanear bulas e facilitar o cadastro dos medicamentos.
+
+* Armazenar os dados do usuário de forma segura e acessível, permitindo backup na nuvem.
+
+* Criar uma interface simples e intuitiva, acessível para idosos e pessoas com pouca experiência digital.
+
 ## 📱 Funcionalidades
 
 - Cadastro e agendamento de medicamentos.
