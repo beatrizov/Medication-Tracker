@@ -26,7 +26,3 @@ Beatriz de Oliveira Vieira
 | Firebase Auth    | Autenticação de usuários                    |
 | Python + BeautifulSoup | Script para extração de dados do bulário da Anvisa |
 | Firebase Functions | API para acesso aos dados extraídos       |
-
-## 🛠️ Como Rodar o Projeto
-
-
