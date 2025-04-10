@@ -33,8 +33,7 @@ Beatriz de Oliveira Vieira
 |------------------|---------------------------------------------|
 | Flutter          | Desenvolvimento do app mobile               |
 | Dart             | Linguagem de programação                    |
-| SQLite           | Armazenamento local                         |
+| mySQL           | Armazenamento local                         |
 | Firebase Firestore | Armazenamento e sincronização na nuvem    |
 | Firebase Auth    | Autenticação de usuários                    |
-| Python + BeautifulSoup | Script para extração de dados do bulário da Anvisa |
 | Firebase Functions | API para acesso aos dados extraídos       |
